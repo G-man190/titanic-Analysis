@@ -1,0 +1,2 @@
+from pycaret.datasets import getdata
+pip install pycaret
